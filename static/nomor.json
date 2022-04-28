@@ -1,0 +1,46 @@
+{
+    "title" : "Nomor-Nomor Penting Saat Mudik",
+    "source" : "Dinas Perhubungan Provinsi Sumatera Barat",
+    "data" : [
+        {
+            "name" : "INFO LAYANAN LEBARAN DI SUMBAR",
+            "phone" : "+628116677111"
+        },
+        {
+            "name" : "One Call Center Jasa Marga",
+            "phone" : "14080"
+        },
+        {
+            "name" : "BBM Pertamina",
+            "phone" : "135"
+        },
+        {
+            "name" : "Kepolisian",
+            "phone" : "110"
+        },
+        {
+            "name" : "Pemadam Kebakaran",
+            "phone" : "113"
+        },
+        {
+            "name" : "Basarnas",
+            "phone" : "115"
+        },
+        {
+            "name" : "Ambulance / Kemenkes",
+            "phone" : "119"
+        },
+        {
+            "name" : "BNPB",
+            "phone" : "117"
+        },
+        {
+            "name" : "PUPR",
+            "phone" : "158"
+        },
+        {
+            "name" : "Kemenhub",
+            "phone" : "151"
+        }
+    ]
+}

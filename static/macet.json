@@ -1,0 +1,73 @@
+{
+    "title" : "Titik Lokasi Rawan Macet / Pasar Tumpah Di Sumatera Barat",
+    "source" : "Dinas Perhubungan Provinsi Sumatera Barat",
+    "data" : [
+        {
+            "title" : "Timur",
+            "data" : [
+                {
+                    "rute" : "Padang - Lubuk Selasih",
+                    "data":[
+                        {
+                            "title":"Padang",
+                            "map":[]
+                        },
+                        {
+                            "title":" Lubuk Selasih",
+                            "map":[]
+                        }
+                    ]
+                },
+                {
+                    "rute" : "Lubuk Selasih – Padang Aro"
+                },
+                {
+                    "rute" : "Muaro Kalaban – Sawahlunto"
+                },
+                {
+                    "rute" : "Muaro Kalaban – Kiliranjao"
+                }
+            ]
+        },
+        {
+            "title" : "Barat",
+            "data" : [
+                {
+                    "rute" : "Bukittinggi – Lubuk Sikaping"
+                }
+            ]
+        },
+        {
+            "title" : "Utara",
+            "data" : [
+                {
+                    "rute" : "Sicincin – Padang Panjang"
+                
+                },
+                {
+                    "rute" : "Sicincin – Malalak"
+                },
+                {
+                    "rute" : "Manggopoh – Padang Luar"
+                },
+                {
+                    "rute" : "Payakumbuh – Batas Riau"
+                }
+            ]
+        },
+        {
+            "title" : "Selatan",
+            "data" : [
+                {
+                    "rute" : "Padang – Painan"
+                },
+                {
+                    "rute" : "Painan – Tapan"
+                },
+                {
+                    "rute" : "Tapan – Batas Jambi (Kerinci)"
+                }
+            ]
+        }
+    ]
+}

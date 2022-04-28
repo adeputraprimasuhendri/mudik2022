@@ -1,0 +1,48 @@
+{
+    "title" : "Titik Lokasi Rawan Macet / Pasar Tumpah Di Sumatera Barat",
+    "source" : "Dinas Perhubungan Provinsi Sumatera Barat",
+    "data" : [
+        {
+            "utara" : [
+                {
+                    "rute" : "Pasar Lubuk Alung"
+                },
+                {
+                    "rute" : "Pasar Sicincin"
+                },
+                {
+                    "rute" : "Objek Wisata Lembah Anai"
+                },
+                {
+                    "rute" : "Objek Wisata Mifan, RM. Pak Datuak, Sate Mak Syukur"
+                },
+                {
+                    "rute" : "Pasar Koto Baru"
+                },
+                {
+                    "rute" : "Pasar Padang Luar"
+                },
+                {
+                    "rute" : "Pasar Baso"
+                },
+                {
+                    "rute" : "Simpang Piladang"
+                },
+                {
+                    "rute" : "Pasar Payakumbuh"
+                }
+            ],
+            "selatan" : [
+                {
+                    "rute" : "Simpang Gaung Teluk Bayur"
+                },
+                {
+                    "rute" : "Sepanjang ruas jalan Tarusan – Painan"
+                },
+                {
+                    "rute" : "Pasar Kambang"
+                }
+            ]
+        }
+    ]
+}
