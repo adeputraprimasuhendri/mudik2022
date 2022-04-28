@@ -1,0 +1,144 @@
+{
+    "title" : "Jalur Alternatif",
+    "source" : "Dinas Perhubungan Provinsi Sumatera Barat",
+    "data" : [
+        {
+            "rute" : "Simp Polsek BIM – Simp. Pasar Usang",
+            "data":[
+                {
+                    "title":"Simpang Polsek BIM",
+                    "map":[]
+                },
+                {
+                    "title":"Simpang Pasar Usang",
+                    "map":[]
+                }
+            ]
+        },
+        {
+            "rute" : "Simp Polsek BIM – Simp. Katapiang – Jambak Lubuk Alung",
+            "data":[
+                {
+                    "title":"Simpang Polsek BIM",
+                    "map":[]
+                },
+                {
+                    "title":"Simp. Katapiang",
+                    "map":[]
+                },
+                {
+                    "title":"Jambak Lubuk Alung",
+                    "map":[]
+                }
+            ]
+        },
+        {
+            "rute" : "Simp Polsek BIM – Simp Katapiang – Pariaman",
+            "data":[
+                {
+                    "title":"Simpang Polsek BIM",
+                    "map":[]
+                },
+                {
+                    "title":"Simp. Katapiang",
+                    "map":[]
+                },
+                {
+                    "title":"Pariaman",
+                    "map":[]
+                }
+            ]
+        },
+        {
+            "rute" : "Sicincin – Malalak",
+            "data":[
+                {
+                    "title":"Sicincin",
+                    "map":[]
+                },
+                {
+                    "title":"Malalak",
+                    "map":[]
+                }
+            ]
+              
+        },
+        {
+            "rute" : "Simp. Pandai Sikek – Pasar Amur",
+            "data":[
+                {
+                    "title":"Simp. Pandai Sikek",
+                    "map":[]
+                },
+                {
+                    "title":"Pasar Amur",
+                    "map":[]
+                }
+            ]
+        },
+        {
+            "rute" : "Simp Batu Palano – Sei. Puar – Simp. Tanjung Alam",
+            "data":[
+                {
+                    "title":"Simp Batu Palano",
+                    "map":[]
+                },
+                {
+                    "title":"Sei. Puar",
+                    "map":[]
+                },
+                {
+                    "title":"Simp. Tanjung Alam",
+                    "map":[]
+                }
+            ]
+        },
+        {
+            "rute" : "Simp. Ampek Angkek Canduang – Tabek Patah – Situjuah – Payakumbuh",
+            "data":[
+                {
+                    "title":"Simp. Ampek Angkek Canduang",
+                    "map":[]
+                },
+                {
+                    "title":"Tabek Patah",
+                    "map":[]
+                },
+                {
+                    "title":"Situjuah",
+                    "map":[]
+                },
+                {
+                    "title":"Payakumbuh",
+                    "map":[]
+                }
+            ]
+        },
+        {
+            "rute" : "Simp. Bungkus Teluk Kabung – Tarusan",
+            "data":[
+                {
+                    "title":"Simp. Bungkus Teluk Kabung",
+                    "map":[]
+                },
+                {
+                    "title":"Tarusan",
+                    "map":[]
+                }
+            ]
+        },
+        {
+            "rute" : "Simp. Padang Sawah – Kumpulan",
+            "data":[
+                {
+                    "title":"Simp. Padang Sawah",
+                    "map":[]
+                },
+                {
+                    "title":"Kumpulan",
+                    "map":[]
+                }
+            ]
+        }
+    ]
+}
